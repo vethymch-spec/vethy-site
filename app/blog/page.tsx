@@ -1,4 +1,5 @@
-import { supabase } from '@/lib/supabaseClient'
+import { supabaseServer } from '@/lib/supabaseServer'
+
 import Link from 'next/link'
 
 export const metadata = {
